@@ -1,0 +1,15 @@
+{
+    "name": "dp48d/mvc3pm",
+    "autoload": {
+        "psr-4": {
+            "Application\\": "../mvc3pm"
+        }
+    },
+    "authors": [
+        {
+            "name": "dpdahal",
+            "email": "test@gmail.com"
+        }
+    ],
+    "require": {}
+}
